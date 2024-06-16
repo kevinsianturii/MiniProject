@@ -1,21 +1,16 @@
 <resources>
-    <string name="app_name">Culinary Canvas</string>
-    <string name="list_kosong">Belum Ada Resep Makanan</string>
-    <string name="x_diklik">%1$s diklik!</string>
-    <string name="tambah_resep">Tambah Resep</string>
-    <string name="resep">Judul Resep</string>
-    <string name="bahan">Bahan - Bahan</string>
-    <string name="step">Langkah - Langkah</string>
-    <string name="kategori">Kategori</string>
-    <string name="edit_resep">Ubah Resep</string>
-    <string name="kembali">Kembali</string>
+    <string name="app_name">Galeri Tempat Wisata</string>
+    <string name="gambar">Gambar %1$s</string>
+    <string name="error">Gagal memuat data.. Koneksi error.</string>
+    <string name="try_again">Coba lagi</string>
+    <string name="profil">Profil</string>
+    <string name="tutup">Tutup</string>
+    <string name="logout">Logout</string>
+    <string name="tambah_tempat">Tambah Destinasi</string>
+    <string name="nama">Nama Wisata</string>
+    <string name="provinsi">Provinsi</string>
+    <string name="batal">Batal</string>
     <string name="simpan">Simpan</string>
-    <string name="invalid">Judul, bahan dan kategori tidak boleh kosong.</string>
-    <string name="lainnya">Opsi lainnya</string>
-    <string name="hapus">Hapus resep</string>
-    <string name="pesan_hapus">Apakah Anda ingin menghapus resep ini?</string>
-    <string name="tombol_hapus">Hapus </string>
-    <string name="tombol_batal">Batal</string>
-    <string name="list">Tampilan list</string>
-    <string name="grid">Tampilan grid</string>
 </resources>
+
+
